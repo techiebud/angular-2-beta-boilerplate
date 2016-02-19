@@ -1,1 +1,0 @@
-System.register(["angular2/platform/browser","./app.component"],function(t){var n,e;return{setters:[function(t){n=t},function(t){e=t}],execute:function(){n.bootstrap(e.AppComponent)}}});
