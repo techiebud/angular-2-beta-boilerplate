@@ -6,7 +6,7 @@ import {Component} from 'angular2/core';
 
          Hello, Techiebud
     `,
-    directives: [InputComponent, ConfirmComponent]
+
 })
 export class AppComponent {
 
