@@ -5,8 +5,7 @@ import {Component} from 'angular2/core';
     template: `
 
          Hello, Techiebud
-    `,
-    directives: [InputComponent, ConfirmComponent]
+    `
 })
 export class AppComponent {
 
